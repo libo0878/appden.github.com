@@ -60,4 +60,4 @@ js:
     - /lib/mootools-more.js
     - /lib/appden.js
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-merlot
